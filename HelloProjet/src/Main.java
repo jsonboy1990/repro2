@@ -10,4 +10,9 @@ public class Main {
     public void testmain() {
         System.out.println("HelloWorld!");
     }
+
+    @Test
+    public void testDev() {
+        System.out.println("dev");
+    }
 }
