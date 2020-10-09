@@ -5,6 +5,11 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
+
+    }
+ @Test
+    public void testmain2() {
+        System.out.println("HelloWorld!");
     }
     @Test
     public void testmain() {
